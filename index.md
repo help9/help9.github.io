@@ -1,8 +1,5 @@
 ---
-layout: default
----
-
-## Windows  00
+## Windows
 - [windows激活](https://wwp.lanzout.com/iFI1Q0e0hvdg)
 - [WinRAR](https://freeyun.lanzouu.com/ib60f8f)
 - [360软件管家（去广告独立版不要登录）](https://freeyun.lanzouu.com/ib60g4h)
