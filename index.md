@@ -1,4 +1,4 @@
-# HELP
+
 ## Windows
 
 - [windows激活](https://wwp.lanzout.com/iFI1Q0e0hvdg)
