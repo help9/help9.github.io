@@ -3,7 +3,6 @@ layout: default
 ---
 
 ## Windows
-
 - [windows激活](https://wwp.lanzout.com/iFI1Q0e0hvdg)
 - [WinRAR](https://freeyun.lanzouu.com/ib60f8f)
 - [360软件管家（去广告独立版不要登录）](https://freeyun.lanzouu.com/ib60g4h)
@@ -17,11 +16,9 @@ layout: default
 - [360驱动大师去诱导精简版单文件](https://freeyun.lanzouy.com/iaq22qb)
 
 ## Mac
-
 - [IMac镜像PD虚拟机Windows11](https://www.123pan.com/s/Qv7DVv-hn1r)
 
 ## iPhone/iPad
-
 - Alook浏览器
 - ![图片](http://m.qpic.cn/psc?/V14NyiDK0tM3Pv/bqQfVz5yrrGYSXMvKr.cqcycnt4t5ueMUHpx2Ywdsejolzb.WYkJW1*DKyKcda9bNWVuVEaUTUP2XXVpKkZ8rstwPC4t5gpRrA2uKmxsx1U!/b\&bo=vgC.AAAAAAADByI!\&rf=viewer_4)
 - 
@@ -31,7 +28,6 @@ layout: default
 - ![图片](http://m.qpic.cn/psc?/V14NyiDK0tM3Pv/bqQfVz5yrrGYSXMvKr.cqaE5lTc*mtna11Hkd7bx1xtXzu*QDVI6y6tAns.rTnVXvUkhalnGw.fmP11V1xfjKsmfKx5QyYrXBUCWs5T27kk!/b\&bo=vgC.AAAAAAADByI!\&rf=viewer_4)
 
 ## Android
-
 夸克浏览器（免费证件照）
 
 - ![图片](http://m.qpic.cn/psc?/V14NyiDK0tM3Pv/bqQfVz5yrrGYSXMvKr.cqdCYFHTWsXdJI2W58CSyEmGtPELlLcWxvZYy2S.w.4mHHQUaPlBxZnG6LxYMbcu31suJDY8ZW1DnrYKZYj3tvXM!/b\&bo=vgC.AAAAAAADByI!\&rf=viewer_4)
