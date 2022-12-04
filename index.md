@@ -1,7 +1,8 @@
 ***
+
 ## Windows
 
-*   [Windows激活工具~先关掉系统杀毒](https://wwp.lanzout.com/iFI1Q0e0hvdg)
+*   [Windows激活工具\~先关掉系统杀毒](https://wwp.lanzout.com/iFI1Q0e0hvdg)
 *   [WinRAR去广告破解版](https://freeyun.lanzouu.com/ib60f8f)
 *   [360软件管家（去广告独立版不要登录）](https://freeyun.lanzouu.com/ib60g4h)
 *   [WPS2019去广告](https://www.123pan.com/s/Qv7DVv-vn1r)
@@ -22,23 +23,33 @@
 ## iPhone/iPad
 
 *   [ Alook浏览器](https://freeyun.lanzouy.com/iab5lob)
-*   ![图片](http://m.qpic.cn/psc?/V14NyiDK0tM3Pv/bqQfVz5yrrGYSXMvKr.cqcycnt4t5ueMUHpx2Ywdsejolzb.WYkJW1*DKyKcda9bNWVuVEaUTUP2XXVpKkZ8rstwPC4t5gpRrA2uKmxsx1U!/b\&bo=vgC.AAAAAAADByI!\&rf=viewer_4)
-*
+
+> ![图片](https://img.xhsix.top/i/2022/12/04/pbrdid.png)
+
 *   [QQ输入法](https://freeyun.lanzouy.com/iLGzP0hldqeh)
-*
+
+> ![图片](https://img.xhsix.top/i/2022/12/04/pbrbda.png)
+
 *   [讯飞语记](https://freeyun.lanzouy.com/isvNz08bfz0f)
-*   ![图片](http://m.qpic.cn/psc?/V14NyiDK0tM3Pv/bqQfVz5yrrGYSXMvKr.cqaE5lTc*mtna11Hkd7bx1xtXzu*QDVI6y6tAns.rTnVXvUkhalnGw.fmP11V1xfjKsmfKx5QyYrXBUCWs5T27kk!/b\&bo=vgC.AAAAAAADByI!\&rf=viewer_4)
+
+> ![图片](https://img.xhsix.top/i/2022/12/04/pbrcbw.png)
 
 ## Android
 
 *   [夸克浏览器免费证件照](https://freeyun.lanzouy.com/i8Qck008hxyd)
 
-*   ![图片](http://m.qpic.cn/psc?/V14NyiDK0tM3Pv/bqQfVz5yrrGYSXMvKr.cqdCYFHTWsXdJI2W58CSyEmGtPELlLcWxvZYy2S.w.4mHHQUaPlBxZnG6LxYMbcu31suJDY8ZW1DnrYKZYj3tvXM!/b\&bo=vgC.AAAAAAADByI!\&rf=viewer_4)
+> ![图片](https://img.xhsix.top/i/2022/12/04/pbrf62.png)
+
 *   [Alook浏览器](https://freeyun.lanzouy.com/iEltLn841cd)
-*   ![图片](http://m.qpic.cn/psc?/V14NyiDK0tM3Pv/bqQfVz5yrrGYSXMvKr.cqfIWIdvXPQKx2P3oW.5WVwJH2D8L8626fk1BtUclsCbKeI1QumcfwEjN55AGAwJsmyclgFsCxIpdkHR3UFQKpMg!/b\&bo=vgC.AAAAAAADByI!\&rf=viewer_4)
+
+> ![图片](https://img.xhsix.top/i/2022/12/04/pbraal.png)
+
 *   [标准定价测机](https://freeyun.lanzouy.com/iPVZ50c7f0lg)
-*   ![图片](http://m.qpic.cn/psc?/V14NyiDK0tM3Pv/bqQfVz5yrrGYSXMvKr.cqcPhjlRBbu.eB.94*9M62vU9VJA4Z0TJeqszyztmo3aHwUYAYxUv57LV.CusyREbc833HIeE.I5YPBm3QJvlb34!/b\&bo=vgC.AAAAAAADFzI!\&rf=viewer_4)
+
+> ![图片](https://img.xhsix.top/i/2022/12/04/pbrf8d.png)
+
 *
 
 ***
->  *   [x] &#x20;*[备用123](https://www.123pan.com/s/Qv7DVv-Un1r)*
+
+> *   [x] &#x20;*[备用123](https://www.123pan.com/s/Qv7DVv-Un1r)*
