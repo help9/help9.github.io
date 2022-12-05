@@ -6,9 +6,10 @@
 *   [WinRAR去广告破解版](https://freeyun.lanzouu.com/ib60f8f)
 *   [360软件管家（去广告独立版不要登录）](https://freeyun.lanzouu.com/ib60g4h)
 *   [WPS2019去广告](https://www.123pan.com/s/Qv7DVv-vn1r)
-*   [Chrome](https://www.123pan.com/s/Qv7DVv-Tn1r)
+*   [Chrome浏览器](https://www.123pan.com/s/Qv7DVv-Tn1r)
+*   [360极速浏览器精简版](https://www.123pan.com/s/Qv7DVv-ms1r)
 *   [射手播放器-本地视频](https://www.123pan.com/s/Qv7DVv-VX1r)
-*   [看图软件](https://www.123pan.com/s/Qv7DVv-dn1r)
+*   [看图软件HONEYVIEW](https://www.123pan.com/s/Qv7DVv-dn1r)
 *   [搜狗拼音去广告可屏蔽联网](https://freeyun.lanzouy.com/iDg3V05bb69i)
 *   [PDF打印机带注册码](https://freeyun.lanzouy.com/i4Hq3vjcoqh)
 *   [Spotify音乐软件](https://www.123pan.com/s/Qv7DVv-3n1r)
@@ -47,6 +48,8 @@
 *   [标准定价测机](https://freeyun.lanzouy.com/iPVZ50c7f0lg)
 
 > ![图片](https://img.xhsix.top/i/2022/12/04/pbrf8d.png)
+
+*
 
 ***
 
