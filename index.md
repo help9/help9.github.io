@@ -23,33 +23,28 @@
 
 ## iPhone/iPad
 
-*   [ Alook浏览器](https://freeyun.lanzouy.com/iab5lob)
+- Alook浏览器
 
-> ![图片](https://img.xhsix.top/i/2022/12/04/pbrdid.png)
+     [![pphAnK0.png](https://s1.ax1x.com/2023/04/03/pphAnK0.png)](https://imgse.com/i/pphAnK0)
+- QQ输入法
 
-*   [QQ输入法](https://freeyun.lanzouy.com/iLGzP0hldqeh)
+     [![pphAZ2n.png](https://s1.ax1x.com/2023/04/03/pphAZ2n.png)](https://imgse.com/i/pphAZ2n)
+- 讯飞语记
 
-> ![图片](https://img.xhsix.top/i/2022/12/04/pbrbda.png)
-
-*   [讯飞语记](https://freeyun.lanzouy.com/isvNz08bfz0f)
-
-> ![图片](https://img.xhsix.top/i/2022/12/04/pbrcbw.png)
+     [![pphAevq.png](https://s1.ax1x.com/2023/04/03/pphAevq.png)](https://imgse.com/i/pphAevq)
 
 ## Android
 
-*   [夸克浏览器免费证件照](https://freeyun.lanzouy.com/i8Qck008hxyd)
+- Alook浏览器
 
-> ![图片](https://img.xhsix.top/i/2022/12/04/pbrf62.png)
+     [![pphFgfA.png](https://s1.ax1x.com/2023/04/03/pphFgfA.png)](https://imgse.com/i/pphFgfA)
 
-*   [Alook浏览器](https://freeyun.lanzouy.com/iEltLn841cd)
+- 最美证件照
 
-> ![图片](https://img.xhsix.top/i/2022/12/04/pbraal.png)
+     [![pphk09s.png](https://s1.ax1x.com/2023/04/03/pphk09s.png)](https://imgse.com/i/pphk09s)
+- 测机软件
 
-*   [标准定价测机](https://freeyun.lanzouy.com/iPVZ50c7f0lg)
-
-> ![图片](https://img.xhsix.top/i/2022/12/04/pbrf8d.png)
-
-*
+     [![pphk6BT.png](https://s1.ax1x.com/2023/04/03/pphk6BT.png)](https://imgse.com/i/pphk6BT)
 
 ***
 
