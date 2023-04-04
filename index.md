@@ -23,29 +23,14 @@
 
 ## iPhone/iPad
 
-- Alook浏览器
-
-     [![pphAnK0.png](https://s1.ax1x.com/2023/04/03/pphAnK0.png)](https://imgse.com/i/pphAnK0)
-- QQ输入法
-
-     [![pphAZ2n.png](https://s1.ax1x.com/2023/04/03/pphAZ2n.png)](https://imgse.com/i/pphAZ2n)
-- 讯飞语记
-
-     [![pphAevq.png](https://s1.ax1x.com/2023/04/03/pphAevq.png)](https://imgse.com/i/pphAevq)
-
+*   [Alook浏览器](https://freeyun.lanzouy.com/iab5lob)
+*   [QQ输入法](https://freeyun.lanzouy.com/iLGzP0hldqeh)
+*   [讯飞语记](https://freeyun.lanzouy.com/isvNz08bfz0f)
 ## Android
 
-- Alook浏览器
-
-     [![pphFgfA.png](https://s1.ax1x.com/2023/04/03/pphFgfA.png)](https://imgse.com/i/pphFgfA)
-
-- 最美证件照
-
-     [![pphk09s.png](https://s1.ax1x.com/2023/04/03/pphk09s.png)](https://imgse.com/i/pphk09s)
-- 测机软件
-
-     [![pphk6BT.png](https://s1.ax1x.com/2023/04/03/pphk6BT.png)](https://imgse.com/i/pphk6BT)
-
+*   [Alook浏览器](https://freeyun.lanzouy.com/iEltLn841cd)
+*   [最美证件照](https://freeyun.lanzouy.com/iZzhF0ry9v6d)
+*   [测机软件](https://freeyun.lanzouy.com/idzT10c7f0di)
 ***
 
 > *   [x] &#x20;*[备用123](https://www.123pan.com/s/Qv7DVv-Un1r)*
