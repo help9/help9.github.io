@@ -15,6 +15,7 @@
 *   [Spotify音乐软件](https://www.123pan.com/s/Qv7DVv-3n1r)
 *   [360驱动大师去诱导精简版单文件](https://freeyun.lanzouy.com/iaq22qb)
 *   [百灵互传-电脑手机互传](https://freeyun.lanzouy.com/iLBOY05onkib)
+*   [电脑配置读取](https://freeyun.lanzouy.com/it7Bs0s2qs8d)
 
 ## Mac
 
