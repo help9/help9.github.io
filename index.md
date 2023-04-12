@@ -34,6 +34,6 @@
 *   [测机软件](https://freeyun.lanzouy.com/idzT10c7f0di)
 
 ***
-   [苹果保修查询](https://checkcoverage.apple.com/?locale=zh_CN)
+   [苹果保修查询](https://checkcoverage.apple.com/?locale=zh_CN)  [华为保修查询](https://consumer.huawei.com/cn/support/warranty-query/)
 
 > *   [x] &#x20;*[备用123](https://www.123pan.com/s/Qv7DVv-Un1r)*
