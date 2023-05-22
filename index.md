@@ -2,7 +2,7 @@
 
 ## Windows
 
-*   [Windows激活工具\~先关掉系统杀毒](https://wwp.lanzout.com/iFI1Q0e0hvdg)
+*   [Windows10激活工具\~先关掉系统杀毒](https://fast.uc.cn/s/509081d4ed874)
 *   [WinRAR去广告破解版](https://freeyun.lanzouu.com/ib60f8f)
 *   [360软件管家（去广告独立版不要登录）](https://freeyun.lanzouu.com/ib60g4h)
 *   [WPS2019去广告](https://www.123pan.com/s/Qv7DVv-vn1r)
@@ -38,4 +38,4 @@
 ***
    [苹果保修查询](https://checkcoverage.apple.com/?locale=zh_CN)  [华为保修查询](https://consumer.huawei.com/cn/support/warranty-query/)
 
-> *   [x] &#x20;*[备用123](https://www.123pan.com/s/Qv7DVv-Un1r)*
+> *   [x] &#x20;*[备用123](https://www.123pan.com/s/Qv7DVv-Un1r)*            *[备用UC](https://fast.uc.cn/s/5177261599c84)*
