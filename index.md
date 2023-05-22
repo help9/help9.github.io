@@ -2,7 +2,7 @@
 
 ## Windows
 
-*   [Windows10激活工具\~先关掉系统杀毒](https://fast.uc.cn/s/509081d4ed874)
+*   [Windows10激活工具](https://fast.uc.cn/s/509081d4ed874)
 *   [WinRAR去广告破解版](https://freeyun.lanzouu.com/ib60f8f)
 *   [360软件管家（去广告独立版不要登录）](https://freeyun.lanzouu.com/ib60g4h)
 *   [WPS2019去广告](https://www.123pan.com/s/Qv7DVv-vn1r)
