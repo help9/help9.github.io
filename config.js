@@ -4,16 +4,16 @@ const bookmarkConfig = {
       id: 'quick',
       name: '快速访问',
       links: [
-        { id: 'quick_1', url: "https://www.baidu.com", name: "BaiDu", icon: "🐧" },
-        { id: 'quick_2', url: "https://www.github.com", name: "GitHub", icon: "📦" },
-        { id: 'quick_3', url: "https://mail.qq.com", name: "QQ 邮箱", icon: "📧" },
+        { id: 'quick_1', url: "https://checkcoverage.apple.com/user-consent", name: "苹果保修查询", icon: "🐧" },
+        { id: 'quick_2', url: "https://consumer.huawei.com/cn/support/warranty-query/", name: "华为保修查询", icon: "📦" },
+        { id: 'quick_3', url: "https://filehelper.weixin.qq.com/?from=webapp", name: "微信文件传输", icon: "📧" },
       ]
     },
     {
       id: 'forum',
       name: '论坛',
       links: [
-        { id: 'forum_1', url: "https://www.v2ex.com", name: "V2EX", icon: "💬" },
+        { id: 'forum_1', url: "https://checkcoverage.apple.com/user-consent", name: "V2EX", icon: "💬" },
         { id: 'forum_2', url: "https://www.ruanyifeng.com/blog/", name: "阮一峰", icon: "💬" },
         { id: 'forum_3', url: "https://hellogithub.com/", name: "HelloGitHub", icon: "💬" },
         { id: 'forum_4', url: "https://learnku.com/", name: "LearnKu", icon: "💬" },
