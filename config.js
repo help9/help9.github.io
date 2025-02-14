@@ -36,12 +36,6 @@ const bookmarkConfig = {
 // 修改搜索引擎配置，使用数组存储
 const defaultSearchEngines = [
   {
-    id: 'google',
-    name: "Google",
-    url: "https://www.google.com/search?q={q}",
-    isDefault: true
-  },
-  {
     id: 'bing',
     name: "Bing",
     url: "https://www.bing.com/search?q={q}"
@@ -51,21 +45,6 @@ const defaultSearchEngines = [
     name: "百度",
     url: "https://www.baidu.com/s?wd={q}"
   },
-  {
-    id: 'DockerHub',
-    name: "DockerHub",
-    url: "https://hub.docker.com/search?q={q}"
-  },
-  {
-    id: 'GitHub',
-    name: "GitHub",
-    url: "https://github.com/search?q={q}&type=repositories"
-  },
-  {
-    id: 'npm',
-    name: "npm",
-    url: "https://www.npmjs.com/search?q={q}"
-  }
 ];
 
 // 获取搜索引擎列表
