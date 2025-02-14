@@ -4,7 +4,7 @@ const bookmarkConfig = {
       id: 'quick',
       name: '快速访问',
       links: [
-        { id: 'quick_1', url: "https://linux.do", name: "LinuxDo", icon: "🐧" },
+        { id: 'quick_1', url: "https://www.baidu.com", name: "BaiDu", icon: "🐧" },
         { id: 'quick_2', url: "https://www.github.com", name: "GitHub", icon: "📦" },
         { id: 'quick_3', url: "https://mail.qq.com", name: "QQ 邮箱", icon: "📧" },
       ]
@@ -29,16 +29,6 @@ const bookmarkConfig = {
         { id: 'tools_4', url: "https://ping.pe/", name: "IP 查询", icon: "🌐" },
       ]
     },
-    {
-      id: 'entertainment',
-      name: '娱乐',
-      links: [
-        { id: 'entertainment_1', url: "https://www.youtube.com", name: "YouTube", icon: "📺" },
-        { id: 'entertainment_2', url: "https://www.netflix.com", name: "Netflix", icon: "🎬" },
-        { id: 'entertainment_3', url: "https://www.bilibili.com", name: "Bilibili", icon: "📺" },
-        { id: 'entertainment_4', url: "https://movie.douban.com/", name: "豆瓣电影", icon: "🎬" },
-      ]
-    }
   ]
 };
 
