@@ -11,18 +11,8 @@ const bookmarkConfig = {
       ]
     },
     {
-      id: 'forum',
-      name: '论坛',
-      links: [
-        { id: 'forum_1', url: "https://checkcoverage.apple.com/user-consent", name: "V2EX", icon: "💬" },
-        { id: 'forum_2', url: "https://www.ruanyifeng.com/blog/", name: "阮一峰", icon: "💬" },
-        { id: 'forum_3', url: "https://hellogithub.com/", name: "HelloGitHub", icon: "💬" },
-        { id: 'forum_4', url: "https://learnku.com/", name: "LearnKu", icon: "💬" },
-      ]
-    },
-    {
       id: 'tools',
-      name: '工具',
+      name: '工具软件',
       links: [
         { id: 'tools_1', url: "https://translate.google.com", name: "Google 翻译", icon: "🌐" },
         { id: 'tools_2', url: "https://22.do/zh", name: "22.do 一次性邮箱", icon: "📧" },
