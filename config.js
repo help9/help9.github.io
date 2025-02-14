@@ -8,6 +8,10 @@ const bookmarkConfig = {
         { id: 'quick_2', url: "https://consumer.huawei.com/cn/support/warranty-query/", name: "华为保修查询", icon: "📦" },
         { id: 'quick_3', url: "https://filehelper.weixin.qq.com/?from=webapp", name: "微信文件传输", icon: "📧" },
         { id: 'quick_3', url: "https://lestore.lenovo.com/", name: "联想应用商店", icon: "📧" },
+        { id: 'quick_1', url: "https://checkcoverage.apple.com/user-consent", name: "苹果保修查询", icon: "🐧" },
+        { id: 'quick_2', url: "https://consumer.huawei.com/cn/support/warranty-query/", name: "华为保修查询", icon: "📦" },
+        { id: 'quick_3', url: "https://filehelper.weixin.qq.com/?from=webapp", name: "微信文件传输", icon: "📧" },
+        { id: 'quick_3', url: "https://lestore.lenovo.com/", name: "联想应用商店", icon: "📧" },
       ]
     },
     {
