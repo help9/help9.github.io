@@ -14,9 +14,9 @@ const bookmarkConfig = {
       id: 'tools',
       name: '工具软件',
       links: [
-        { id: 'tools_1', url: "https://translate.google.com", name: "Google 翻译", icon: "🌐" },
-        { id: 'tools_2', url: "https://22.do/zh", name: "22.do 一次性邮箱", icon: "📧" },
-        { id: 'tools_3', url: "https://pmail.plus/zh/#!", name: "pmail.plus 一次性邮箱", icon: "📧" },
+        { id: 'tools_1', url: "https://freeyun.lanzouu.com/b0hc8az1e", name: "蓝奏云", icon: "🌐" },
+        { id: 'tools_2', url: "http://www.yishimei.cn/network/290.html", name: "Windows镜像", icon: "📧" },
+        { id: 'tools_3', url: "http://www.yishimei.cn/network/319.html", name: "亦是美激活", icon: "📧" },
         { id: 'tools_4', url: "https://ping.pe/", name: "IP 查询", icon: "🌐" },
       ]
     },
